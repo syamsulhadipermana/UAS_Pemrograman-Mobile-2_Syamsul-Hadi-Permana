@@ -72,5 +72,8 @@ Tujuan dari project ini adalah:
  # Tampilan Aplikasi
  <p>Halaman Utama</p>
  <img width="1084" height="875" alt="Image" src="https://github.com/user-attachments/assets/6041ae52-2c43-4f8f-a6bf-9269001318c6" />
+
+ <p>Featured Guitars</p>
+ <img width="1069" height="749" alt="Image" src="https://github.com/user-attachments/assets/39be6db1-49c1-4f12-8cae-b425fcb9e100" />
  
 
