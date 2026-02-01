@@ -1,7 +1,7 @@
 # UAS Pemrograman Mobile 2
 <ul>
   <li>Mata Kuliah: Pemrograman Mobile 2</li>
-  <li>Dosen Pengampu: Muhammad Ikhwan Fathulloj, S.Kom</li>
+  <li>Dosen Pengampu: Muhammad Ikhwan Fathulloh, S.Kom</li>
 </ul>
 
 <ul>
@@ -23,3 +23,31 @@ Toko alat musik, khususnya gitar, juga dapat memanfaatkan aplikasi mobile untuk:
 <li>Mengelola stok</li>
 <li>Mempermudah pembelian</li>
 Sebagai penggemar gitar, saya tertarik membuat aplikasi bertema Guitar Store agar proses belajar Flutter menjadi lebih menyenangkan sekaligus relevan dengan minat pribadi
+
+# 🎯 Tujuan Pembuatan Aplikasi
+Tujuan dari project ini adalah:
+<li>Mempelajari pengembangan aplikasi mobile menggunakan Flutter</li>
+<li>Memahami state management menggunakan BLoC/Cubit</li>
+<li>Mengintegrasikan backend menggunakan Supabase</li>
+<li>Mengimplementasikan fitur autentikasi (Login/Register)</li>
+<li>Membuat aplikasi e-commerce gitar sesuai keinginan dan kebutuhan</li>
+<li>Menggabungkan hobi (gitar) dengan project akademik</li>
+
+# ✨ Fitur Aplikasi
+✅ Login & Register user
+✅ Autentikasi Supabase
+✅ Menampilkan daftar produk gitar
+✅ Detail produk
+✅ Harga + diskon
+✅ Dark / Light mode
+✅ Logout akun
+✅ State management BLoC (Cubit)
+✅ Responsive UI
+
+# 🛠️ Teknologi yang Digunakan
+<li>Flutter</li>
+<li>Dart</li>
+<li>BLoC / Cubit</li>
+<li>Supabase (Backend & Database)</li>
+<li>REST API</li>
+<li>Material Design</li>
