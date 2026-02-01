@@ -52,8 +52,8 @@ Tujuan dari project ini adalah:
 <li>REST API</li>
 <li>Material Design</li>
 
-🗂️ Struktur Folder
-lib/
+# 🗂️ Struktur Folder
+<li>lib/
  ┣ blocs/
  ┃ ┣ auth_cubit.dart
  ┃ ┣ product_cubit.dart
@@ -67,5 +67,5 @@ lib/
  ┃ ┗ settings_page.dart
  ┣ core/
  ┃ ┗ app_routes.dart
- ┗ main.dart
+ ┗ main.dart</li>
 
