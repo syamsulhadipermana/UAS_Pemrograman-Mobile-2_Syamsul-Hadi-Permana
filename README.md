@@ -71,6 +71,6 @@ Tujuan dari project ini adalah:
 
  # Tampilan Aplikasi
  <p>Halaman Utama</p>
- ![Image alt](https://github.com/syamsulhadipermana/UAS_Pemrograman-Mobile-2_Syamsul-Hadi-Permana/blob/main/Screenshot%202026-02-01%20180917.png?raw=true)
+ <img width="1084" height="875" alt="Image" src="https://github.com/user-attachments/assets/6041ae52-2c43-4f8f-a6bf-9269001318c6" />
  
 
