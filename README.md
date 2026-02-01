@@ -69,3 +69,8 @@ Tujuan dari project ini adalah:
  ┃ ┗ app_routes.dart
  ┗ main.dart</li>
 
+ # Tampilan Aplikasi
+ <p>Halaman Utama</p>
+ ![Image](https://github.com/syamsulhadipermana/UAS_Pemrograman-Mobile-2_Syamsul-Hadi-Permana/blob/main/Screenshot%202026-02-01%20180917.png?raw=true)
+ 
+
