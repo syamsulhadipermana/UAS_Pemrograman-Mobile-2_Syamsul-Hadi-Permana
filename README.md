@@ -51,3 +51,21 @@ Tujuan dari project ini adalah:
 <li>Supabase (Backend & Database)</li>
 <li>REST API</li>
 <li>Material Design</li>
+
+🗂️ Struktur Folder
+lib/
+ ┣ blocs/
+ ┃ ┣ auth_cubit.dart
+ ┃ ┣ product_cubit.dart
+ ┃ ┗ theme_cubit.dart
+ ┣ models/
+ ┃ ┗ guitar_model.dart
+ ┣ pages/
+ ┃ ┣ login_page.dart
+ ┃ ┣ register_page.dart
+ ┃ ┣ home_page.dart
+ ┃ ┗ settings_page.dart
+ ┣ core/
+ ┃ ┗ app_routes.dart
+ ┗ main.dart
+
